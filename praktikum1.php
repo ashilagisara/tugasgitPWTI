@@ -7,3 +7,4 @@ $myNumber = 0;
   echo "Sebelum fungsi dijalankan, myNumber = ". $myNumber ."<br>"; 
  $myNumber = mySum(3, 4);  
  echo "Setelah fungsi dijalankan, myNumber = ". $myNumber ."<br>"; 
+>?
